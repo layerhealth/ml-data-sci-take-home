@@ -70,12 +70,5 @@ patient_id,diabetes,smoking,cancer,reasoning,supporting_quotes
 
 **Cancer:** `No Cancer/Benign` | `Indeterminate` | `Active` | `Remission`
 
-## Key Components
-
-- **`baseline.py`**: Core prediction logic using Pydantic AI
-- **`predict.py`**: Generic utility for running predictions across all patients
-- **`models.py`**: Structured output schemas with type safety
-- **`utils.py`**: Patient note reading and processing
-
 ---
 
