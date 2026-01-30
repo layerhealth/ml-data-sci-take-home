@@ -1,0 +1,101 @@
+patient_id,diabetes,smoking,cancer
+001,Prediabetes,Not Smoker,Active
+002,Type 2 Diabetes,Smoker,No Cancer/Benign
+003,No Diabetes,Not Smoker,Indeterminate
+004,No Diabetes,Not Smoker,No Cancer/Benign
+005,Type 2 Diabetes,Smoker,No Cancer/Benign
+006,Prediabetes,Not Smoker,Active
+007,No Diabetes,Not Smoker,No Cancer/Benign
+008,Prediabetes,Not Smoker,No Cancer/Benign
+009,Type 1 Diabetes,Smoker,Remission
+010,No Diabetes,Not Smoker,No Cancer/Benign
+011,Type 2 Diabetes,Smoker,Indeterminate
+012,No Diabetes,Not Smoker,Active
+013,Type 2 Diabetes,Smoker,No Cancer/Benign
+014,No Diabetes,Smoker,Active
+015,Prediabetes,Not Smoker,Active
+016,No Diabetes,Smoker,No Cancer/Benign
+017,Type 2 Diabetes,Not Smoker,No Cancer/Benign
+018,Prediabetes,Smoker,Active
+019,No Diabetes,Not Smoker,No Cancer/Benign
+020,Type 2 Diabetes,Smoker,Remission
+021,No Diabetes,Not Smoker,No Cancer/Benign
+022,Type 2 Diabetes,Not Smoker,No Cancer/Benign
+023,No Diabetes,Smoker,Active
+024,No Diabetes,Not Smoker,No Cancer/Benign
+025,Prediabetes,Not Smoker,Active
+026,Type 2 Diabetes,Smoker,No Cancer/Benign
+027,Prediabetes,Smoker,Indeterminate
+028,No Diabetes,Not Smoker,Active
+029,Type 1 Diabetes,Not Smoker,No Cancer/Benign
+030,Prediabetes,Not Smoker,Remission
+031,No Diabetes,Not Smoker,No Cancer/Benign
+032,No Diabetes,Smoker,Active
+033,Type 2 Diabetes,Smoker,Indeterminate
+034,Prediabetes,Not Smoker,Active
+035,Type 2 Diabetes,Not Smoker,Active
+036,No Diabetes,Smoker,No Cancer/Benign
+037,Type 2 Diabetes,Not Smoker,Active
+038,Prediabetes,Not Smoker,No Cancer/Benign
+039,Type 2 Diabetes,Smoker,No Cancer/Benign
+040,No Diabetes,Not Smoker,No Cancer/Benign
+041,Type 2 Diabetes,Not Smoker,Remission
+042,No Diabetes,Smoker,No Cancer/Benign
+043,Prediabetes,Smoker,Remission
+044,Type 2 Diabetes,Not Smoker,Indeterminate
+045,No Diabetes,Not Smoker,No Cancer/Benign
+046,Prediabetes,Smoker,Active
+047,Type 1 Diabetes,Smoker,No Cancer/Benign
+048,Type 2 Diabetes,Not Smoker,Indeterminate
+049,Prediabetes,Not Smoker,Active
+050,No Diabetes,Smoker,No Cancer/Benign
+051,Type 2 Diabetes,Smoker,Remission
+052,No Diabetes,Not Smoker,Active
+053,Prediabetes,Smoker,No Cancer/Benign
+054,Type 2 Diabetes,Smoker,Active
+055,No Diabetes,Not Smoker,No Cancer/Benign
+056,No Diabetes,Smoker,No Cancer/Benign
+057,Type 2 Diabetes,Not Smoker,No Cancer/Benign
+058,Prediabetes,Smoker,Active
+059,No Diabetes,Not Smoker,Indeterminate
+060,Type 2 Diabetes,Not Smoker,Active
+061,Type 1 Diabetes,Not Smoker,No Cancer/Benign
+062,No Diabetes,Not Smoker,Remission
+063,Type 2 Diabetes,Smoker,No Cancer/Benign
+064,Prediabetes,Not Smoker,No Cancer/Benign
+065,Prediabetes,Smoker,Active
+066,No Diabetes,Smoker,Active
+067,Type 2 Diabetes,Smoker,No Cancer/Benign
+068,Prediabetes,Not Smoker,Active
+069,Type 2 Diabetes,Smoker,Indeterminate
+070,No Diabetes,Not Smoker,Active
+071,Type 2 Diabetes,Not Smoker,Remission
+072,Type 2 Diabetes,Not Smoker,No Cancer/Benign
+073,Prediabetes,Smoker,No Cancer/Benign
+074,Type 2 Diabetes,Smoker,Active
+075,Prediabetes,Smoker,No Cancer/Benign
+076,Type 2 Diabetes,Not Smoker,No Cancer/Benign
+077,No Diabetes,Not Smoker,Active
+078,Prediabetes,Not Smoker,No Cancer/Benign
+079,Type 2 Diabetes,Smoker,No Cancer/Benign
+080,No Diabetes,Not Smoker,Active
+081,No Diabetes,Smoker,Active
+082,Prediabetes,Not Smoker,No Cancer/Benign
+083,Type 2 Diabetes,Not Smoker,Active
+084,Prediabetes,Smoker,No Cancer/Benign
+085,No Diabetes,Not Smoker,No Cancer/Benign
+086,Type 2 Diabetes,Smoker,Remission
+087,Type 2 Diabetes,Smoker,No Cancer/Benign
+088,Prediabetes,Not Smoker,Active
+089,No Diabetes,Not Smoker,No Cancer/Benign
+090,Type 2 Diabetes,Smoker,No Cancer/Benign
+091,Prediabetes,Not Smoker,Active
+092,Type 2 Diabetes,Not Smoker,Active
+093,Prediabetes,Smoker,No Cancer/Benign
+094,No Diabetes,Smoker,No Cancer/Benign
+095,Type 2 Diabetes,Not Smoker,Active
+096,No Diabetes,Not Smoker,No Cancer/Benign
+097,Type 2 Diabetes,Smoker,Active
+098,Prediabetes,Not Smoker,Indeterminate
+099,No Diabetes,Not Smoker,Remission
+100,Type 2 Diabetes,Smoker,Active
