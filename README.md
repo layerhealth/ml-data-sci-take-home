@@ -13,19 +13,22 @@ A machine learning system for extracting structured information (diabetes, smoki
 │   │   └── ...
 │   └── labels.csv           # Ground truth classifications
 │
-└── src/
-    ├── models.py            # Pydantic data models
-    ├── utils.py             # File I/O utilities
-    ├── predict.py           # Prediction runner (single & batch)
-    └── requirements.txt     # Python dependencies
+├── src/
+│   ├── models.py            # Pydantic data models
+│   ├── utils.py             # File I/O utilities
+│   └── predict.py           # Prediction runner (single & batch)
+│
+└── requirements.txt         # Python dependencies
 ```
 
 ## Setup
 
 ```bash
-cd src
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 export ANTHROPIC_API_KEY='your-key'
+cd src
 ```
 
 ## Usage
@@ -56,6 +59,11 @@ patient_id,diabetes,smoking,cancer
 ```
 
 ### Predictions Output
+
+The baseline and labels use zero-padded patient IDs (e.g. `001`); note directories
+use a `Pt_` prefix (e.g. `Pt_001`). Retain leading zeros when reading CSVs and
+normalize identifiers before joining any custom outputs.
+
 ```csv
 patient_id,diabetes,smoking,cancer,reasoning,supporting_quotes
 001,Prediabetes,Not Smoker,Active,"Clinical reasoning...","Quote 1 | Quote 2"
