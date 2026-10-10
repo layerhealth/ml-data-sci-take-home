@@ -16,8 +16,7 @@ A machine learning system for extracting structured information (diabetes, smoki
 ├── src/
 │   ├── models.py            # Pydantic data models
 │   ├── utils.py             # File I/O utilities
-│   ├── baseline.py          # Baseline prediction function
-│   └── predict.py           # Batch prediction runner
+│   └── predict.py           # Prediction runner (single & batch)
 │
 └── requirements.txt         # Python dependencies
 ```
@@ -36,13 +35,18 @@ cd src
 
 **Single patient prediction:**
 ```bash
-python baseline.py
+python predict.py --patient 001
 ```
 
-**Batch predictions:**
+**Batch predictions (all patients):**
 ```bash
 python predict.py
 ```
+
+**Options:**
+- `-p, --patient`: Single patient ID to predict (e.g., `001`)
+- `-o, --output`: Output CSV file path (default: `predictions.csv`)
+- `-b, --batch-size`: Number of concurrent predictions (default: `10`)
 
 ## Data Format
 
